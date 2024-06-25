@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keith Markomen</h1>
 <h3 align="center">A passionate website and mobile developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brokeice123&label=Profile%20views&color=0e75b6&style=flat" alt="brokeice123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brokeice123&label=Profile%20views&color=0e75b6&style=flat" alt="brokeice123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brokeice123" alt="brokeice123" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brokeice123" alt="brokeice123" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [Brokeice123](Brokeice123)
 
